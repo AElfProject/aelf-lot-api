@@ -1,6 +1,6 @@
 'use strict';
 
-const walletURL = 'http://1.119.195.50:11109';
+const walletURL = 'http://tdvv-wallet-test.aelf.io';
 
 module.exports = {
   commonPrivateKey:
@@ -8,5 +8,5 @@ module.exports = {
   // You can change the params for keyStore here
   httpProvider: `${walletURL}/chain`,
 
-  lotteryContract: 'RXcxgSXuagn8RrvhQAV81Z652EEYSwR6JLnqHYJ5UVpEptW8Y',
+  lotteryContract: 'buePNjhmHckfZn9D8GTL1wq6JgA8K24SeTWnjCNcrz6Sf1FDh',
 };
